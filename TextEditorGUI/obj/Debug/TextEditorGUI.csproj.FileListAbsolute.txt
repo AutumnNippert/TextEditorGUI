@@ -1,0 +1,10 @@
+C:\Users\Chris\source\repos\TextEditorGUI\TextEditorGUI\bin\Debug\TextEditorGUI.exe.config
+C:\Users\Chris\source\repos\TextEditorGUI\TextEditorGUI\bin\Debug\TextEditorGUI.exe
+C:\Users\Chris\source\repos\TextEditorGUI\TextEditorGUI\bin\Debug\TextEditorGUI.pdb
+C:\Users\Chris\source\repos\TextEditorGUI\TextEditorGUI\obj\Debug\TextEditorGUI.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\TextEditorGUI\TextEditorGUI\obj\Debug\TextEditorGUI.Form1.resources
+C:\Users\Chris\source\repos\TextEditorGUI\TextEditorGUI\obj\Debug\TextEditorGUI.Properties.Resources.resources
+C:\Users\Chris\source\repos\TextEditorGUI\TextEditorGUI\obj\Debug\TextEditorGUI.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\TextEditorGUI\TextEditorGUI\obj\Debug\TextEditorGUI.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\TextEditorGUI\TextEditorGUI\obj\Debug\TextEditorGUI.exe
+C:\Users\Chris\source\repos\TextEditorGUI\TextEditorGUI\obj\Debug\TextEditorGUI.pdb

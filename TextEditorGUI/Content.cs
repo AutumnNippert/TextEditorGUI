@@ -13,15 +13,31 @@ namespace TextEditorGUI
         public string text = "";
         protected Stack<string> undoStack;
         protected Stack<string> redoStack;
+        private bool isFirst = true;
+        private bool isUndo = false;
         public void textChanged(string _text)
         {
-            this.undoStack.Push(_text);
+            if (!isFirst)
+            {
+                isFirst = true;
+            }
+            else if(!isUndo)
+            {
+                this.undoStack.Push(_text);
+                isUndo = false;
+            }
+            else
+            {
+                isUndo = false;
+            }
         }
         //Doesn't get rid of last thing
         public string undo()
         {
-            if (!(undoStack.Count <= 0))
+
+            if (undoStack.Count > 1)
             {
+                isUndo = true;
                 var popped = this.undoStack.Pop();
                 this.redoStack.Push(popped);
                 this.text = popped;

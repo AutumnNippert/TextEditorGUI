@@ -8,3 +8,13 @@ C:\Users\Chris\source\repos\TextEditorGUI\TextEditorGUI\obj\Debug\TextEditorGUI.
 C:\Users\Chris\source\repos\TextEditorGUI\TextEditorGUI\obj\Debug\TextEditorGUI.csproj.CoreCompileInputs.cache
 C:\Users\Chris\source\repos\TextEditorGUI\TextEditorGUI\obj\Debug\TextEditorGUI.exe
 C:\Users\Chris\source\repos\TextEditorGUI\TextEditorGUI\obj\Debug\TextEditorGUI.pdb
+C:\Users\Brian\Documents\GitHub\TextEditorGUI\TextEditorGUI\bin\Debug\TextEditorGUI.exe.config
+C:\Users\Brian\Documents\GitHub\TextEditorGUI\TextEditorGUI\bin\Debug\TextEditorGUI.exe
+C:\Users\Brian\Documents\GitHub\TextEditorGUI\TextEditorGUI\bin\Debug\TextEditorGUI.pdb
+C:\Users\Brian\Documents\GitHub\TextEditorGUI\TextEditorGUI\obj\Debug\TextEditorGUI.csprojAssemblyReference.cache
+C:\Users\Brian\Documents\GitHub\TextEditorGUI\TextEditorGUI\obj\Debug\TextEditorGUI.Form1.resources
+C:\Users\Brian\Documents\GitHub\TextEditorGUI\TextEditorGUI\obj\Debug\TextEditorGUI.Properties.Resources.resources
+C:\Users\Brian\Documents\GitHub\TextEditorGUI\TextEditorGUI\obj\Debug\TextEditorGUI.csproj.GenerateResource.cache
+C:\Users\Brian\Documents\GitHub\TextEditorGUI\TextEditorGUI\obj\Debug\TextEditorGUI.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\GitHub\TextEditorGUI\TextEditorGUI\obj\Debug\TextEditorGUI.exe
+C:\Users\Brian\Documents\GitHub\TextEditorGUI\TextEditorGUI\obj\Debug\TextEditorGUI.pdb

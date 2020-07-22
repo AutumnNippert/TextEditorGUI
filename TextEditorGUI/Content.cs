@@ -20,8 +20,9 @@ namespace TextEditorGUI
         //Doesn't get rid of last thing
         public string undo()
         {
-            if (!(undoStack.Count <= 0))
+            if (undoStack.Count > 1)
             {
+                var cur = this.undoStack.Pop();
                 var popped = this.undoStack.Pop();
                 this.redoStack.Push(popped);
                 this.text = popped;
